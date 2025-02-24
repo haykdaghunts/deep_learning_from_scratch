@@ -1,6 +1,6 @@
 # Deep Learning Framework from Scratch
 
-This repository contains a deep learning framework implemented from scratch using NumPy. The goal of this project is to mimic the PyTorch pipeline, providing a basic but functional deep learning framework for educational purposes. The usage of this framework is demonstrated in the `main.ipynb` file.
+This repository contains a deep learning framework implemented from scratch using NumPy. The goal of this project is to mimic the PyTorch pipeline, providing a basic but functional deep learning framework written with numpy for educational purposes. The usage of this framework is demonstrated in the `main.ipynb` file.
 
 ## Overview
 
